@@ -43,9 +43,9 @@ python3 main_rnn_lstm.py
 python3 plot.py
 ```
 
-<img src='https://github.com/maj34/KOSPI-Stock-Prediction/assets/75362328/59d0e9c8-0556-447f-8a49-bb906513f9e4' width='60%' height='80%'>
+<img src='https://github.com/maj34/KOSPI-Stock-Prediction/assets/75362328/59d0e9c8-0556-447f-8a49-bb906513f9e4' width='80%' height='100%'>
 
-<img src='https://github.com/maj34/KOSPI-Stock-Prediction/assets/75362328/4bafda09-3799-444f-acba-9b56f02673a3' width='60%' height='80%'>
+<img src='https://github.com/maj34/KOSPI-Stock-Prediction/assets/75362328/4bafda09-3799-444f-acba-9b56f02673a3' width='80%' height='100%'>
 
 
 <br/>
@@ -61,4 +61,4 @@ python3 main_transformer.py
 |Transformer_epoch_10|0.00070|0.00517|
 |Transformer_epoch_100|0.00037|0.00149|
 
-<img src='https://github.com/maj34/KOSPI-Stock-Prediction/assets/75362328/7035c59b-8ec8-4ca0-a726-eceb143592db' width='60%' height='80%'>
+<img src='https://github.com/maj34/KOSPI-Stock-Prediction/assets/75362328/7035c59b-8ec8-4ca0-a726-eceb143592db' width='80%' height='100%'>
